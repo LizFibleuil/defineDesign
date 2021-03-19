@@ -1,0 +1,1 @@
+"Application used to define the different client requests for a space"
